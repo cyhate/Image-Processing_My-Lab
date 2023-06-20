@@ -1,0 +1,10 @@
+C:\Users\Andreas\Desktop\LabALL\LabALL\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Andreas\Desktop\LabALL\LabALL\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Andreas\Desktop\LabALL\LabALL\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\LabALL.csproj.AssemblyReference.cache
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\LabALL.csproj.GenerateResource.cache
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\LabALL.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Andreas\Desktop\LabALL\LabALL\obj\Debug\WindowsFormsApplication1.pdb
